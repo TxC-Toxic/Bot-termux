@@ -4,5 +4,4 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> cd Arya-BOT3
 > npm install
